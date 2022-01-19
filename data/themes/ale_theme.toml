@@ -1,0 +1,22 @@
+# Theme metadata
+name = "ale_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#E33E1D" #"#dd513a" #"#e82b00" # vaguely orange
+
+
+# Menu
+menu_primary = "#80C4E7" # "#9FD3ED" # "#e6f7ff"
+menu_text = "#051a24"
+menu_text_active = "#E33E1D"
+menu_title = "#051a24"
+
+# Backgrounds
+background = "#fffefc"
+home_section_odd = "#fffefc"
+home_section_even = "#fffefc"
+
+font = "ale_font"

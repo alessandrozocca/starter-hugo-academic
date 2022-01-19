@@ -1,0 +1,13 @@
+# Font style metadata
+name = "ale_font"
+
+# Optional Google font URL
+google_fonts = "family=Lato:ital@0;1&family=Raleway:ital,wght@0,500;1,500&family=Roboto+Mono:wght@100"
+#"Lato:400,400i,700|Raleway:500,500i|Roboto+Mono"
+
+
+# Font families
+heading_font = "Raleway"
+body_font = "Lato"
+nav_font = "Raleway"
+mono_font = "Roboto Mono"
