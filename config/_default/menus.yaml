@@ -19,6 +19,9 @@ main:
   - name: Experience
     url: '#experience'
     weight: 30
+  - name: Teaching and supervision
+    url: '#teaching'
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 60
