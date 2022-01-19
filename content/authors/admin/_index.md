@@ -88,7 +88,7 @@ My research is centered around the study of **complex systems where randomness p
 
 My long-term goal as a researcher is to analyze the randomness emerging in these complex systems and corresponding systemic risks with rigorous mathematical tools, as well as understand how such randomness can either be mitigated or, potentially, leveraged to improve the system resilience and performances.
 
-Broadly speaking, I am interested in stochastic dynamics on networks, especially whenever a non-trivial interplay emerges between the (evolving) network structure and the system’s randomness, a setting where applied probability, learning, and optimization naturally meet.
+Broadly speaking, I am interested in stochastic dynamics on networks, especially whenever a non-trivial interplay emerges between the (evolving) network structure and the system’s randomness, a setting where **applied probability**, **learning**, and **optimization** naturally meet.
 
 The main focus of my current research are stochastic models instrumental to understand and quantify the impact of a high penetration of renewable energy sources in power systems and devise possible algorithmic solutions to mitigate the resulting uncertainty. More specifically, I work on stochastic optimization, large deviations analysis, and MCMC methods for rare events, especially in relation to contingencies and blackouts.
 
