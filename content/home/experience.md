@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 71
+weight: 35
 
 title: Experience
 subtitle: "[See my full CV](../files/cv_zocca.pdf)"

@@ -8,10 +8,10 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 71
 
-title: Research
-subtitle: '[Current research projects](#projects)'
+title: Research projects
+subtitle:
 
 content:
   # Page type to display. E.g. project.
