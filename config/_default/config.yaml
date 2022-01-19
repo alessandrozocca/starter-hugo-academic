@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Alessandro Zocca' # Website name
-baseurl: '/' # Website URL 'https://localhost:1313/'
+baseurl: 'https://github.com/alessandrozocca/alessandrozocca.github.io/' # Website URL 'https://localhost:1313/'
 copyright: '&copy; {year} Alessandro Zocca' # Footer text, e.g. '© {year} Me'
 relativeURLs: true
 
